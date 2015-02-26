@@ -9,6 +9,6 @@ Webscraper for Go & Pizza Meetup (San Diego)
 Links:
 
 * https://www.godoc.org/golang.org/x/net/html
-* https://github.comPuerkitoBio/goquery
+* https://github.com/PuerkitoBio/goquery
 * https://github.com/ernesto-jimenez/scraperboard
 
